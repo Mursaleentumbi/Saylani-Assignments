@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 24px;
+}
+
+img {
+    height: 200px;
+    width: 150px;
+    margin: 10px;
+}
